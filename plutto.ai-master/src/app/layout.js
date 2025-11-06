@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Pluto AI - Advanced AI Solutions",
+  title: "Lama AI - Advanced AI Solutions",
   description: "Transform your business with cutting-edge AI technology. Pluto AI delivers intelligent solutions for the future.",
 };
 
