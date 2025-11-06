@@ -313,7 +313,7 @@ const LandingPage = ({ showContent }) => {
       letterSpacing: "0.02em",
     }}
   >
-     PROTO.AI
+     LAMA.AI
   </div>
 </motion.div>
 </div>
