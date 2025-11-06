@@ -249,7 +249,7 @@ const Header = () => {
             dark ? "text-white" : "text-black"
           }`}
         >
-          PROTO.AI
+          LAMA.AI
         </div>
         {/* Desktop Home Link */}
         <div
